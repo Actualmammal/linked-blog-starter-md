@@ -123,6 +123,8 @@ So each area would contain, the scene with everything.
 
 1: Room creator
 This tool allows you to create rooms.
+Has a list of room items?
+Tile sets?
 
 2: Room Layout Placer.
 Allows you to place rooms on a grid layout
