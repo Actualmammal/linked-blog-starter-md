@@ -118,4 +118,11 @@ As in, what data should make up a level?
 Do we want one big scene or split it into areas. (kind of like Hollow Knight)
 I think split it into areas that get loaded when the player is nearby.
 So each area would contain, the scene with everything.
- 
+
+#### Developer Tools
+
+1: Room creator
+This tool allows you to create rooms.
+
+2: Room Layout Placer.
+Allows you to place rooms on a grid layout
