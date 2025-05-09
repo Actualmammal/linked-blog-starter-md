@@ -118,3 +118,4 @@ As in, what data should make up a level?
 Do we want one big scene or split it into areas. (kind of like Hollow Knight)
 I think split it into areas that get loaded when the player is nearby.
 So each area would contain, the scene with everything.
+ 
