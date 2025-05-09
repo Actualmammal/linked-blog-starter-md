@@ -110,3 +110,11 @@ Some sections will  follow the player with bounds set on the free axes.
 Pixel art environment. A mix of tile sets for levels and background and also PNG sprites for decorations like vines you can place around.
 
 The style is like Nier factories + overgrowth +
+
+
+#### Level Data
+As in, what data should make up a level?
+
+Do we want one big scene or split it into areas. (kind of like Hollow Knight)
+I think split it into areas that get loaded when the player is nearby.
+So each area would contain, the scene with everything.
